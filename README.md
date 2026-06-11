@@ -138,11 +138,15 @@ margin-top:40px;
 </div>
 
 <div class="card">
-<img src="https://via.placeholder.com/400x400">
-<div class="card-content">
-<h3>المنتج الثاني</h3>
-<p>وصف مختصر للمنتج</p>
-<a class="btn" href="https://wa.me/9647807896561">
+<img src="airpods.jpg">
+<div class="content">
+<h3>سماعة AirPods</h3>
+<div class="price">35,000 د.ع</div>
+<a class="btn" href="https://wa.me/9647807896561?text=أريد طلب سماعة AirPods">
+اطلب الآن
+</a>
+</div>
+</div>
 اطلب الآن
 </a>
 </div>
